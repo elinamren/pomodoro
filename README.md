@@ -19,6 +19,6 @@ momentjs
 
 ## Process
 
-## Arieas to improve
+## Areas to improve
 
 ## Challenges
