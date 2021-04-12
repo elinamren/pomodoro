@@ -14,10 +14,11 @@ Will come
 
 ## Tools/libraries/dependencies
 
-Reactjs
+Reactjs  
+momentjs
 
 ## Process
 
-## Arieas to improve
+## Areas to improve
 
 ## Challenges
